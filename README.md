@@ -1,1 +1,1 @@
-# multilayer_GaN_SHG_Kolthammer2005
+# multilayer_SHG_Kolthammer2005
